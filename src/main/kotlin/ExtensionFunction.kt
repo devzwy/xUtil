@@ -1,0 +1,1 @@
+fun String.test(): String = "看到该内容表示扩展函数调用成功"
